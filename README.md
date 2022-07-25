@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abbappii&label=Profile%20views&color=0e75b6&style=flat" alt="abbappii" /> </p>
 
 
-- 🌱 I’m currently working with **Django & Django Rest Framework**
+- 🌱 I’m currently working with **Django & Django REST Framework**
 
 - 💬 Ask me about **Python, Django Framework , Django Rest Framework**
 
