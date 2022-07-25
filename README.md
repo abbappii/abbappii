@@ -1,15 +1,12 @@
 
-[![MasterHead](https://as1.ftcdn.net/v2/jpg/02/22/96/70/1000_F_222967089_uftweUTsmcqiDYMzFXvSdOI0AfwxNqa7.jpg)](https://github.com/ShahriarShovo)
+[![MasterHead](https://as1.ftcdn.net/v2/jpg/02/22/96/70/1000_F_222967089_uftweUTsmcqiDYMzFXvSdOI0AfwxNqa7.jpg)](ithub.com/abbappii)
 
 <h1 align="center">Hi 👋, I'm Abo Bashar Bappi</h1>
 <h3 align="center">A passionate Python Back-End (Django and Django Rest Framework) developer</h3>
-<p align="left"><img src="https://komarev.com/ghpvc/?username=k..." alt="khushboogoel01" /></p>
+
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/5eKX.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abbappii&label=Profile%20views&color=0e75b6&style=flat" alt="abbappii" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abbappii" alt="abbappii" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently working with **Django & Django Rest Framework**
 
