@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **bappi142434@gmail.com**
 
-- ⚡ Fun fact **I like recite Quran and Drinking Coffee**
+- ⚡ Fun fact **I like to listen recitation of Quran and Drinking Coffee**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
